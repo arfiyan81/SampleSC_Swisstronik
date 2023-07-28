@@ -1,0 +1,1 @@
+# SampleSC_Swisstronik
