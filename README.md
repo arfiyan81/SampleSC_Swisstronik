@@ -16,7 +16,7 @@ contract Register {
 
     constructor() {  
         github = "arfiyan81";
-        owner = 0xc10D0e70e6337a55BB330C7B06fF1c986697237d;
+        owner = 0xc10D0e70e6337a55BB330C7B06fF1c986697223lk;
     }
 
     function addReferral(address _referralAddress, string memory _referralString) external {
